@@ -44,7 +44,7 @@ namespace III_10
             }
             catch (Exception)
             {
-                MessageBox.Show("Hibás adtmegadás, vagy üres szövegdoboz,");
+                MessageBox.Show("Hibás adatmegadás, vagy üres szövegdoboz,");
             }
         }
 
