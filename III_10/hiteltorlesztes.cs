@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -44,7 +44,7 @@ namespace III_10
             }
             catch (Exception)
             {
-                MessageBox.Show("Hibás adatmegadás, vagy üres szövegdoboz,");
+                MessageBox.Show("Hibás adtmegadás, vagy üres szövegdoboz,");
             }
         }
 
